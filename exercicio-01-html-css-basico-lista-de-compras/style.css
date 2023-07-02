@@ -1,0 +1,16 @@
+.lista {
+    background-color: #efefe7;
+    border: 5px solid #ff6347;
+    width: 500px;
+    height: 250px;
+    margin: 50px;
+    
+    
+}
+.lista h1 {
+    text-align: center;   
+}
+
+.lista p {
+    margin-left: 10px;
+}
